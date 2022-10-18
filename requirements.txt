@@ -4,3 +4,4 @@ numpy
 matplotplib
 seaborn
 sklearn
+tensorflow
